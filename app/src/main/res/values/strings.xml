@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PRATUL</string>
+
+    <string-array name="Keterangan">
+        <item>-</item>
+        <item>LUNAS DI TEMPAT</item>
+        <item>JANJI BAYAR</item>
+        <item>KOLEKTIF</item>
+    </string-array>
+
+</resources>

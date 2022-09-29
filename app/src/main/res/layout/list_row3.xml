@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="80dp"
+                android:src="@drawable/ic_baseline_person_24"
+                android:layout_height="80dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/linearshowdata"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="4dp"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/langkah"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="kosong"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:id="@+id/nama"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="FAUZAN ABDULLAH FADHIL"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="17dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <TextView
+                    android:id="@+id/alamat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="kosong"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/koked"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="kosong"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:id="@+id/idpel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="kosong"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:id="@+id/daya"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="kosong"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tarif"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:text="kosong"
+                        android:textSize="15dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tagihan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="kosong"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

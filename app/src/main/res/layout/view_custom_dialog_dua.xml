@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:theme="@style/AppTheme.AppBarOverlay"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/logout"/>
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:layout_marginTop="7dp"
+                android:id="@+id/btnlogout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Keluar"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:background="#F44336"
+                android:drawableLeft="@drawable/ic_baseline_logout_24" />
+            <Button
+                android:layout_marginTop="7dp"
+                android:id="@+id/btngantipass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Ganti Kata Sandi"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:background="#F44336"
+                android:drawableLeft="@drawable/ic_baseline_password_24" />
+            <Button
+                android:layout_marginTop="7dp"
+                android:id="@+id/batalbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Batal"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                android:background="#F44336"
+                android:drawableLeft="@drawable/ic_baseline_cancel_24"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

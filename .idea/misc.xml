@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/drawable/background0.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/drawable/background4.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/drawable/dashed_dua.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/drawable/edit_text_style.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_contoh.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_device.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_download_data.xml" value="0.12" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_ganti_password.xml" value="0.14" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_kunjungan.xml" value="0.12" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_laporan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_main_sementara.xml" value="0.18" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_pemutusan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_repayment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_reset.xml" value="0.16" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_simpan_offline.xml" value="0.14" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_simpan_online.xml" value="0.18" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tagihan_bulanan.xml" value="0.22" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tampil_online.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tampilan.xml" value="0.14" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tampilan_offline.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tampilan_pelunasan.xml" value="0.22" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/activity_tampilan_pemutusan.xml" value="0.1" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/conten_main2.xml" value="0.1" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/content_mainbar.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/device_name.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/item_list.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/list_row.xml" value="0.25" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/list_row2.xml" value="0.25" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/list_row3.xml" value="0.25" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/list_row4.xml" value="0.21" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/sementara.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/sheet.xml" value="0.18" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/spinner_value.xml" value="0.17" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/tagihan_bulanan_contoh.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/view_custom_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/layout/view_custom_dialog_dua.xml" value="0.2" />
+        <entry key="..\:/Users/San The Developer/Android Arindo/Ketagiahn/app/src/main/res/menu/menu_bar.xml" value="0.12407407407407407" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
